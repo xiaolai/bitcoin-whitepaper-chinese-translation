@@ -20,11 +20,19 @@
 > - [中文版](Bitcoin-Whitepaper-CN.pdf)
 > - [英中对照版](Bitcoin-Whitepaper-EN-CN.pdf)
 
+对应的 html 版本分别是：
+
+> * [中文版](Bitcoin-Whitepaper-CN.html)
+> * [英中对照版](Bitcoin-Whitepaper-EN-CN.html)
+
 对应的 markdown 文件分别是：
 
 > * [中文版 md](Bitcoin-Whitepaper-CN.md)
+>
 > * [英中对照版 md](Bitcoin-Whitepaper-EN-CN.md)
+>
+> 很遗憾，github 无法自动显示 LaTex 数学公式标记……
 
-MacOS 上比较好用的 Markdown 编辑器是：[Typora](https://typora.io/)，*.md* 文件可以用它阅读，以上的 pdf 版本就是使用 Typora 导出的。
+MacOS 上比较好用的 Markdown 编辑器是：[Typora](https://typora.io/)，*.md* 文件可以用它阅读，以上的 pdf/html 版本就是使用 Typora 导出的。
 
 希望对大家有所帮助！
