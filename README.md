@@ -6,7 +6,7 @@
 
 > - [tiehexue 翻译版本](https://github.com/wbnns/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf)
 > - [shdxiang 翻译版本](https://github.com/wbnns/bitcoinwhitepaper/blob/master/bitcoin_zh_cn.pdf)
-> - [QQagent 翻译版本](https://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
+> - [QQagent（吴忌寒）翻译版本](https://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
 > - [金晓翻译版本（含注解）](https://zhuanlan.zhihu.com/p/25039679)
 
 若干年来，《比特币白皮书》我不知道读了多少遍，但在自己动手翻译之前，从未在网上阅读过中文版 —— 因为对我来说没有这个必要。
