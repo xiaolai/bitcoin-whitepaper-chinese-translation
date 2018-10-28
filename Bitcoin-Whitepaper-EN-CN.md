@@ -215,6 +215,7 @@ $$
 To get the probability the attacker could still catch up now, we multiply the Poisson density for each amount of progress he could have made by the probability he could catch up from that point:
 
 为了算出攻击者依然可以赶上的概率，我们要把每一个攻击者已有的进展的帕松密度乘以他可以从那一点能够追上来的概率：
+
 $$
 \large \sum_{k=0}^{\infty} \frac{\lambda^k e^{-\lambda}}{k!} \cdot
 				\begin{Bmatrix}
@@ -226,6 +227,7 @@ $$
 Rearranging to avoid summing the infinite tail of the distribution...
 
 为了避免对密度分布的无穷级数求和重新整理…
+
 $$
 \large 1 - \sum_{k=0}^{z} \frac{\lambda^k e^{-\lambda}}{k!}
 				\left ( 1-(q/p)^{(z-k)} \right )
