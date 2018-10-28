@@ -313,7 +313,7 @@ We have proposed a system for electronic transactions without relying on trust. 
 
 -----
 
-### 参考文献 (References)
+## 参考文献 (References)
 
 
 >1. W. Dai, "b-money," http://www.weidai.com/bmoney.txt, 1998. 

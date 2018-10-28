@@ -227,7 +227,7 @@ double AttackerSuccessProbability(double q, int z)
 
 -----
 
-### 参考文献
+## 参考文献
 
 
 >1. W. Dai, "b-money," http://www.weidai.com/bmoney.txt, 1998. 
