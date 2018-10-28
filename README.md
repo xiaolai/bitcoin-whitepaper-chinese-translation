@@ -25,4 +25,6 @@
 > * [中文版 md](Bitcoin-Whitepaper-CN.md)
 > * [英中对照版 md](Bitcoin-Whitepaper-EN-CN.md)
 
+MacOS 上比较好用的 Markdown 编辑器是：[Typora](https://typora.io/)，*.md* 文件可以用它阅读，以上的 pdf 版本就是使用 Typora 导出的。
+
 希望对大家有所帮助！
