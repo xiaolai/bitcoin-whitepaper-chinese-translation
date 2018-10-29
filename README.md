@@ -23,6 +23,8 @@
 
 很遗憾，在 github 上直接浏览 markdown 文件时，其中的数学公式不能正确显示。本页面右上部有绿色的按钮```Clone or download```，下载 ZIP 之后解压缩在本地电脑，即可正常翻阅。MacOS 上比较好用的 Markdown 编辑器是：[Typora](https://typora.io/)，*.md* 文件可以用它阅读，以上的 pdf/html 版本就是使用 Typora 导出的。
 
+您也可以直接[点击这里在线阅读](http://lixiaolai.com/Bitcoin-Whitepaper-EN-CN.html)。
+
 希望对大家有所帮助！
 
 其实吧，我知道，这东西真没几个人认真看的…… 十年过来，一如既往地如此。
