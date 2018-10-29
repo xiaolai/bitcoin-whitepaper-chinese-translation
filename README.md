@@ -11,7 +11,7 @@
 
 若干年来，《比特币白皮书》我不知道读了多少遍，但在自己动手翻译之前，从未在网上阅读过中文版 —— 因为对我来说没有这个必要。2018 年 10 月 31 日的几天前，我动手翻译了一遍，放在这里。
 
-翻译这个事情，从来都没有“最好的” —— 信达雅也通常只不过是一厢情愿而已。我之所以动手翻译，并非出自于自认为翻译得更好，仅仅是出于一时兴起而已，前后耗费一整天的时间。翻译过程中也参照了以上提到的几个版本，期间，霍炬（@virushuo）和老猫提供了大量的帮助。发布之后，很快 @x1angli 提交了几处很好的更正……
+翻译这个事情，从来都没有“最好的” —— 信达雅也通常只不过是一厢情愿而已。我之所以动手翻译，并非出自于自认为翻译得更好，仅仅是出于一时兴起而已，前后耗费一整天的时间。翻译过程中也参照了以上提到的几个版本，期间，霍炬（[@virushuo](https://github.com/virushuo)）和老猫提供了大量的帮助。发布之后，很快 [@x1angli](https://github.com/x1angli) 提交了几处很好的更正……
 
 白皮书中所使用的 svg 格式图片，来自 [dhimmel 的代码仓库](https://github.com/dhimmel/bitcoin-whitepaper)，@dhimmel 为 Bitcoin Whitepaper 重新制作了版式更好的英文版 [html 版本](http://git.dhimmel.com/bitcoin-whitepaper/)和 [pdf 版本](http://git.dhimmel.com/bitcoin-whitepaper/manuscript.pdf)。
 
