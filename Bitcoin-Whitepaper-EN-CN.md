@@ -215,7 +215,7 @@ $$
 
 To get the probability the attacker could still catch up now, we multiply the Poisson density for each amount of progress he could have made by the probability he could catch up from that point:
 
-为了算出攻击者依然可以赶上的概率，我们要把每一个攻击者已有的进展的帕松密度乘以他可以从那一点能够追上来的概率：
+为了算出攻击者依然可以赶上的概率，我们要把攻击者需要追赶的区块数目的帕松分布概率密度，乘以在落后该区块数目下能够追上来的概率：
 
 $$
 \large \sum_{k=0}^{\infty} \frac{\lambda^k e^{-\lambda}}{k!} \cdot
